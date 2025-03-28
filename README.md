@@ -9,7 +9,6 @@ Link:-  https://documenter.getpostman.com/view/40524812/2sB2cPiQqu
 - [Features](#features)
 - [Setup Instructions](#setup-instructions)
 - [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
   - [Authentication Endpoints](#authentication-endpoints)
   - [Profile Endpoints](#profile-endpoints)
