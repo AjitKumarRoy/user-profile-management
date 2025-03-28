@@ -41,7 +41,7 @@ Link:-  https://documenter.getpostman.com/view/40524812/2sB2cPiQqu
 
 4. **Start the Server:**
     ```bash
-    node start 
+    npm start 
 
 ## Environment Variables
         PORT=3000
